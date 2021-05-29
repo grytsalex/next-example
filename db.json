@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "description": "The modern web developer's platform",
+      "link": "https://angular.io/"
+    },
+    {
+      "id": 2,
+      "title": "Vue",
+      "description": "The Progressive JavaScript Framework",
+      "link": "https://vuejs.org/"
+    },
+    {
+      "id": 3,
+      "title": "Svelte",
+      "description": "Cybernetically enhanced web apps",
+      "link": "https://svelte.dev/"
+    }
+  ],
+  "about": {
+    "title": "About us"
+  }
+}

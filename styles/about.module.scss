@@ -1,0 +1,24 @@
+$color: #552B72;
+$btnHeight: 40px;
+$btnBorderRadius: 6px;
+$btnFontWeight: 400;
+
+.title {
+  text-transform: uppercase;
+  color: $color;
+}
+
+.buttonsContainer {
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.button {
+  height: $btnHeight;
+  background-color: aliceblue;
+  color: $color;
+  border-radius: $btnBorderRadius;
+  font-weight: $btnFontWeight;
+  margin: 1rem;
+}
